@@ -5,8 +5,8 @@ Better constants and enumerations.
 
 Works with Python 2 and 3 :)
 
-[![PyPi version](https://pypip.in/v/MetaEnum/badge.png)](https://crate.io/packages/MetaEnum/)
-[![PyPi downloads](https://pypip.in/d/MetaEnum/badge.png)](https://crate.io/packages/MetaEnum/)
+[![PyPi version](https://img.shields.io/pypi/v/MetaEnum.svg)](https://crate.io/packages/MetaEnum/)
+[![PyPi downloads](https://img.shields.io/pypi/dm/MetaEnum.svg)](https://crate.io/packages/MetaEnum/)
 
 Usage
 =====
